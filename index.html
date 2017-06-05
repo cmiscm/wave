@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<head xmlns="http://www.w3.org/1999/html">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>Wave</title>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.19.0/TweenLite.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.19.0/easing/EasePack.min.js"></script>
+    <link href="css/cmcontrol.css" media="screen" rel="stylesheet" />
+    <style>
+        * {
+            outline:0;
+            margin: 0;
+            padding: 0;
+        }
+        html, body, canvas {
+            width:100%;
+            height:100%;
+            overflow: hidden;
+            background-color: #fff;
+            cursor: ns-resize;
+        }
+    </style>
+
+</head>
+
+<body>
+    <canvas></canvas>
+
+    <script type="text/javascript" src="js/libs/signals.min.js"></script>
+    <script type="text/javascript" src="js/libs/CMControl.min.js"></script>
+    <script type="text/javascript" src="js/Wave.js"></script>
+    <script>
+        window.onload = Wave.init;
+    </script>
+</body>
+</html>
