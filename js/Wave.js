@@ -162,7 +162,7 @@ var Wave = Wave || ( function () {
             colorCon.setClass('check');
             container.add(colorCon);
             var colorItem = new CMControl.Panel();
-            colorItem.setTextContent('SHOW POINTS');
+            colorItem.setTextContent('COLOR');
             colorItem.setClass('label');
             colorCon.add(colorItem);
             var colorBack = new CMControl.Radio(true);
