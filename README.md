@@ -1,8 +1,6 @@
 # wave
 Javascript Wave animation
 
-#Prey on Animation
-
 
 [![alt text](https://cmiscm.github.io/wave/screenshot/wave.gif)](http://cmiscm.github.com/wave/)
 
