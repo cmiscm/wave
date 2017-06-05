@@ -2,7 +2,7 @@
 Javascript Wave animation
 
 
-[![alt text](https://cmiscm.github.io/wave/screenshot/wave.gif)](http://cmiscm.github.com/wave/)
+[![alt text](https://cmiscm.github.io/wave/screenshot/wave.jpg)](http://cmiscm.github.com/wave/)
 
  
 ### Example
